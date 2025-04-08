@@ -17,7 +17,7 @@
 ## Tech Used
 
 - React 19
-- Typescript
+- TypeScript
 - Vite
 - Tailwind CSS
 - React Query
