@@ -17,13 +17,16 @@
 ## Tech Used
 
 - React 19
+- Typescript
 - Vite
 - Tailwind CSS
 - React Query
 - Vitest  (I have used vitest for writing test to maintain the stack. Jest could have been used also)
 - Cypress
+- Node >= 18**
 - ESLint
 - Axios
+- npm
 
 ## Project structure
 
