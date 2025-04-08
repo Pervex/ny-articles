@@ -1,0 +1,7 @@
+node_modules
+dist
+*.config.ts
+vite.config.ts
+.eslintcache
+tsconfig.node.json
+

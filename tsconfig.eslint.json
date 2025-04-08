@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "src",
+    "tests",
+    "./**/.eslintrc.js",
+    "./postcss.config.js",
+    "./tailwind.config.js",
+    "types.d.ts",
+    "craco.config.js",
+    "jest.config.js"
+  ]
+}
